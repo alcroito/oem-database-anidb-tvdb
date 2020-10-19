@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14105",
+        "tvdb": "360154"
+    },
+    "names": [
+        "Shoumetsu Toshi"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

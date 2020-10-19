@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14453",
+        "tvdb": "357431"
+    },
+    "names": [
+        "Assassins Pride"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

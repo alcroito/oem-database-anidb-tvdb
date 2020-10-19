@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "15593",
+        "tvdb": "305089"
+    },
+    "names": [
+        "Re:Zero kara Hajimeru Isekai Seikatsu (2021)"
+    ],
+    "parameters": {
+        "default_season": "2",
+        "episode_offset": "12"
+    }
+}

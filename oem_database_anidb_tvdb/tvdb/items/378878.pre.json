@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14994",
+        "tvdb": "378878"
+    },
+    "names": [
+        "Deca-Dence"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

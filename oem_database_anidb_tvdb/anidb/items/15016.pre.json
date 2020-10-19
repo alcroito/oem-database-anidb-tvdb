@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15016",
+        "tvdb": "374472"
+    },
+    "names": [
+        "Oda Shinamon Nobunaga"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

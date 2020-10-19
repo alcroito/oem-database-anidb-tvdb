@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14491",
+        "tvdb": "355774"
+    },
+    "names": [
+        "Dr. Stone"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

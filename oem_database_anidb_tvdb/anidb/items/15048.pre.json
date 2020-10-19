@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15048",
+        "tvdb": "372853"
+    },
+    "names": [
+        "A3! Season Autumn & Winter"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

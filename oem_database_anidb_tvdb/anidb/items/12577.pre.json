@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12577",
+        "tvdb": "275582"
+    },
+    "names": [
+        "Eiga Youkai Watch: Shadow Side - Oni Ou no Fukkatsu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "8874",
+        "tvdb": "264533"
+    },
+    "names": [
+        "Mo Gyutto \"Love\" de Sekkinchuu!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

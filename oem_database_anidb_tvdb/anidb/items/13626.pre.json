@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13626",
+        "tvdb": "281275"
+    },
+    "names": [
+        "Saenai Heroine no Sodatekata Fine"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

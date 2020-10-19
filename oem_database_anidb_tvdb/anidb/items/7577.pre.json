@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "7577",
+        "tvdb": "105131"
+    },
+    "names": [
+        "Princess Lover! (2010)"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "18"
+    }
+}

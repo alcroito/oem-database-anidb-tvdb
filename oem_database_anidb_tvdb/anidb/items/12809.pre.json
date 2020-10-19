@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "12809",
+        "tvdb": "70799"
+    },
+    "names": [
+        "Beyblade Burst God"
+    ],
+    "parameters": {
+        "default_season": "9"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

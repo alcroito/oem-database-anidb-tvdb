@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15026",
+        "tvdb": "347578"
+    },
+    "names": [
+        "Zoids Wild Zero"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

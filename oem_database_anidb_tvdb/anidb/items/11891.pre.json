@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11891",
+        "tvdb": "261667"
+    },
+    "names": [
+        "Duel Masters VSRF"
+    ],
+    "parameters": {
+        "default_season": "12"
+    }
+}

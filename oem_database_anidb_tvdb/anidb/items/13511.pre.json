@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13511",
+        "tvdb": "299742"
+    },
+    "names": [
+        "Starmyu in Halloween"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

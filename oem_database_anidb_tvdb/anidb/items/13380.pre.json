@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13380",
+        "tvdb": "319997"
+    },
+    "names": [
+        "Uma no Friends"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

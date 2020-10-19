@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14756",
+        "tvdb": "361218"
+    },
+    "names": [
+        "Given"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

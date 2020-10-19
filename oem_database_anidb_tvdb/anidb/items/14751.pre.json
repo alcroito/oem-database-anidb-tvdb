@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14751",
+        "tvdb": "361754"
+    },
+    "names": [
+        "Try Knights"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

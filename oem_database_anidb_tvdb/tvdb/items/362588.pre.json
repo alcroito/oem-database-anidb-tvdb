@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14134",
+        "tvdb": "362588"
+    },
+    "names": [
+        "King of Prism: Shiny Seven Stars"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

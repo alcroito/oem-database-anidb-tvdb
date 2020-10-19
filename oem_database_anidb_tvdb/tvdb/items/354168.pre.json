@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14113",
+        "tvdb": "354168"
+    },
+    "names": [
+        "Girly Air Force"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

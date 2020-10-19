@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13347",
+        "tvdb": "351487"
+    },
+    "names": [
+        "Knights of the Zodiac: Saint Seiya"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

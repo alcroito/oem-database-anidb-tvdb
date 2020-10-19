@@ -1,0 +1,29 @@
+{
+    "identifiers": {
+        "anidb": "15300",
+        "tvdb": "366263"
+    },
+    "names": [
+        "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Eustachius no Shitamachi Sennyuu Daisakusen / Corinna-sama no Otaku Houmon"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        },
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

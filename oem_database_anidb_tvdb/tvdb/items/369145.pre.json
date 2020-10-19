@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15023",
+        "tvdb": "369145"
+    },
+    "names": [
+        "Null Peta"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13948",
+        "tvdb": "369143"
+    },
+    "names": [
+        "Babylon"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "13187",
+        "tvdb": "272316"
+    },
+    "names": [
+        "Non Non Biyori: Vacation"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

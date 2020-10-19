@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15267",
+        "tvdb": "372833"
+    },
+    "names": [
+        "Kakushigoto"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

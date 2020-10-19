@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14488",
+        "tvdb": "355480"
+    },
+    "names": [
+        "En'en no Shouboutai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

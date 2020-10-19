@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "tvdb": "358890"
+    },
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "15371"
+            },
+            "names": [
+                "Hentatsu (2019)"
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "15348"
+            },
+            "names": [
+                "Hentatsu (2020)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "14729",
+        "tvdb": "321532"
+    },
+    "names": [
+        "Tsugumomo (2020)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15275",
+        "tvdb": "377543"
+    },
+    "names": [
+        "Jujutsu Kaisen"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "14890",
+        "tvdb": "284131"
+    },
+    "names": [
+        "Nanatsu no Taizai: Imashime no Fukkatsu (2018)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "10",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

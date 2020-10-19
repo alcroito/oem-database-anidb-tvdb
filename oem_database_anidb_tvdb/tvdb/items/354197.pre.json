@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13839",
+        "tvdb": "354197"
+    },
+    "names": [
+        "Pastel Memories"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

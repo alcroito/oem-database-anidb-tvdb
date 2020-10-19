@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "13612",
+        "tvdb": "326109"
+    },
+    "names": [
+        "Gekijouban Made in Abyss: Fukaki Tamashii no Reimei"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

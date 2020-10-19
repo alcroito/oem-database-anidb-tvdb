@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15110",
+        "tvdb": "354179"
+    },
+    "names": [
+        "Kengan Ashura 2nd Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

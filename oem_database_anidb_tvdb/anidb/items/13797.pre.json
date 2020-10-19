@@ -1,0 +1,87 @@
+{
+    "identifiers": {
+        "anidb": "13797",
+        "tvdb": "354199"
+    },
+    "names": [
+        "Kemurikusa"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "5"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "0",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

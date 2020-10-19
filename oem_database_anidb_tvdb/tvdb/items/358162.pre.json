@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11810",
+        "tvdb": "358162"
+    },
+    "names": [
+        "Ensemble Stars!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

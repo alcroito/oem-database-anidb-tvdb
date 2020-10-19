@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14440",
+        "tvdb": "360438"
+    },
+    "names": [
+        "Toaru Kagaku no Accelerator"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15319",
+        "tvdb": "289909"
+    },
+    "names": [
+        "Shokugeki no Souma: Gou no Sara"
+    ],
+    "parameters": {
+        "default_season": "5"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15028",
+        "tvdb": "351953"
+    },
+    "names": [
+        "Zombie Land Saga Revenge"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

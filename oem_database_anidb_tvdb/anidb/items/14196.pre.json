@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "14196",
+        "tvdb": "283935"
+    },
+    "names": [
+        "Gekijouban Trinity Seven: Heavens Library to Crimson Lord"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

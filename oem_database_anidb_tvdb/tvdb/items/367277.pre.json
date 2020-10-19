@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14396",
+        "tvdb": "367277"
+    },
+    "names": [
+        "Azur Lane the Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

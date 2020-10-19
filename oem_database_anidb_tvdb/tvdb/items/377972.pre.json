@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14939",
+        "tvdb": "377972"
+    },
+    "names": [
+        "Listeners"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

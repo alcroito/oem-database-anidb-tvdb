@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14256",
+        "tvdb": "360580"
+    },
+    "names": [
+        "Namu Amida Butsu! Utena"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

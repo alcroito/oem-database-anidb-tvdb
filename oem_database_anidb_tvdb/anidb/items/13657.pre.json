@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13657",
+        "tvdb": "295068"
+    },
+    "names": [
+        "Dragon Ball Super: Broly"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14721",
+        "tvdb": "374198"
+    },
+    "names": [
+        "Gleipnir"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

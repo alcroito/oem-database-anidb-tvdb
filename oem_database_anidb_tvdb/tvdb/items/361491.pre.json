@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14574",
+        "tvdb": "361491"
+    },
+    "names": [
+        "Cop Craft"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

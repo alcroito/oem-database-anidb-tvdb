@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15231",
+        "tvdb": "373345"
+    },
+    "names": [
+        "Healin' Good Precure"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

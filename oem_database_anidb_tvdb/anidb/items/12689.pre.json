@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "12689",
+        "tvdb": "272316"
+    },
+    "names": [
+        "Non Non Biyori Repeat: Hotaru ga Tanoshinda"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

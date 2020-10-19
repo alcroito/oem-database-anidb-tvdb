@@ -1,0 +1,25 @@
+{
+    "identifiers": {
+        "anidb": "14707",
+        "tvdb": "371444"
+    },
+    "names": [
+        "Koi Suru Asteroid"
+    ],
+    "parameters": {
+        "default_season": "1"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

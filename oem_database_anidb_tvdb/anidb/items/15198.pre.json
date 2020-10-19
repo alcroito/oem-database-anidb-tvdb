@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "15198",
+        "tvdb": "71863"
+    },
+    "names": [
+        "Lupin Sansei: Prison of the Past"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "44"
+    }
+}

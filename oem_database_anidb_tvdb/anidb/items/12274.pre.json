@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12274",
+        "tvdb": "304476"
+    },
+    "names": [
+        "Cure Miracle to Mofurun no Mahou Lesson!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

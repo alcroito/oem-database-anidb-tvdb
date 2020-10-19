@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "12420",
+        "tvdb": "269319"
+    },
+    "names": [
+        "Gekijouban Fate/Kaleid Liner Prisma Illya: Sekka no Chikai"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "23"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "25"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

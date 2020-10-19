@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15136",
+        "tvdb": "371040"
+    },
+    "names": [
+        "Nami yo Kiite Kure"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

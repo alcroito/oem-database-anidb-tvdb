@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "355774"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "14491"
+            },
+            "names": [
+                "Dr. Stone"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "15305"
+            },
+            "names": [
+                "Dr. Stone: Stone Wars"
+            ]
+        }
+    }
+}

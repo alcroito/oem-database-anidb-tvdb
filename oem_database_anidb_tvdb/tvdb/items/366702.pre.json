@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14386",
+        "tvdb": "366702"
+    },
+    "names": [
+        "Houkago Saikoro Club"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

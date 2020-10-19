@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15413",
+        "tvdb": "381768"
+    },
+    "names": [
+        "Sen'yoku no Sigrdrifa"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

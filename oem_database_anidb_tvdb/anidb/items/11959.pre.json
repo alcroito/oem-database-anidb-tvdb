@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11959",
+        "tvdb": "254667"
+    },
+    "names": [
+        "Senki Zesshou Symphogear XV"
+    ],
+    "parameters": {
+        "default_season": "5"
+    }
+}

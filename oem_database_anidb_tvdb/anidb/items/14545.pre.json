@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14545",
+        "tvdb": "382958"
+    },
+    "names": [
+        "Ex-Arm"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "9270",
+        "tvdb": "264533"
+    },
+    "names": [
+        "Wonderful Rush"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

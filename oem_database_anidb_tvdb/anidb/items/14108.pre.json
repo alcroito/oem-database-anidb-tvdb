@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "14108",
+        "tvdb": "301920"
+    },
+    "names": [
+        "Monster Strike the Movie: Sora no Kanata"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "8",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

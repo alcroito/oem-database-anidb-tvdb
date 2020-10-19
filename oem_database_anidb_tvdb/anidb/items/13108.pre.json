@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13108",
+        "tvdb": "283929"
+    },
+    "names": [
+        "Gekijouban Gundam G no Reconguista"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "10"
+    }
+}

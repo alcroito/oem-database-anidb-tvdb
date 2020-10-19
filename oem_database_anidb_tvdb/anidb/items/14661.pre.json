@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14661",
+        "tvdb": "361456"
+    },
+    "names": [
+        "Kanata no Astra"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

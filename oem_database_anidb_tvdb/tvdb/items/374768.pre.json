@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14292",
+        "tvdb": "374768"
+    },
+    "names": [
+        "ARP Backstage Pass"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

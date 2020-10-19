@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13310",
+        "tvdb": "303867"
+    },
+    "names": [
+        "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "4"
+    }
+}

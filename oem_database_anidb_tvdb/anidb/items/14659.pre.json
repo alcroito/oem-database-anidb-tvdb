@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14659",
+        "tvdb": "361013"
+    },
+    "names": [
+        "Beastars"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

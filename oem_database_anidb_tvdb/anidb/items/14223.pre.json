@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14223",
+        "tvdb": "353624"
+    },
+    "names": [
+        "Youkoso Japari Park"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

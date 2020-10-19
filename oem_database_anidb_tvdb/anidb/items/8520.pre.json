@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "8520",
+        "tvdb": "264533"
+    },
+    "names": [
+        "Natsu-iro Egao de 1, 2, Jump!"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "2"
+    }
+}

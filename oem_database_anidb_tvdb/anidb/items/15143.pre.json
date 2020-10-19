@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "15143",
+        "tvdb": "367067"
+    },
+    "names": [
+        "No Guns Life (2020)"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "12"
+    }
+}

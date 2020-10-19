@@ -1,0 +1,47 @@
+{
+    "identifiers": {
+        "anidb": "10742",
+        "tvdb": "81472"
+    },
+    "names": [
+        "Dragon Ball Z: Fukkatsu no \"F\""
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "23"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

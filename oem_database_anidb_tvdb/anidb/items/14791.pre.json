@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14791",
+        "tvdb": "346931"
+    },
+    "names": [
+        "Hataraku Saibou!!"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

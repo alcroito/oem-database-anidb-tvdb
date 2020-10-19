@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14987",
+        "tvdb": "370377"
+    },
+    "names": [
+        "Id:Invaded"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

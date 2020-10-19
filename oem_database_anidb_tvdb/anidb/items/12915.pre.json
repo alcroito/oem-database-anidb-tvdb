@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "12915",
+        "tvdb": "306407"
+    },
+    "names": [
+        "Happy Party Train"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "11216",
+        "tvdb": "354179"
+    },
+    "names": [
+        "Kengan Ashura"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

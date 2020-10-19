@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14630",
+        "tvdb": "363143"
+    },
+    "names": [
+        "Machikado Mazoku"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

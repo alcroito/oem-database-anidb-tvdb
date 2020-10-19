@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14498",
+        "tvdb": "358154"
+    },
+    "names": [
+        "Fight League: Gear Gadget Generators"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

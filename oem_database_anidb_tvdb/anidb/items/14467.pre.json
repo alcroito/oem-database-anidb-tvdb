@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14467",
+        "tvdb": "361707"
+    },
+    "names": [
+        "Tejina Senpai"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

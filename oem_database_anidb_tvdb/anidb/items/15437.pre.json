@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15437",
+        "tvdb": "378879"
+    },
+    "names": [
+        "Akudama Drive"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

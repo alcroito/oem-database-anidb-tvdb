@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "14444",
+        "tvdb": "267440"
+    },
+    "names": [
+        "Shingeki no Kyojin Season 3 (2019)"
+    ],
+    "parameters": {
+        "default_season": "3",
+        "episode_offset": "12"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14744",
+        "tvdb": "370895"
+    },
+    "names": [
+        "Phantasy Star Online 2: Episode Oracle"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

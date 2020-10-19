@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15271",
+        "tvdb": "341437"
+    },
+    "names": [
+        "Megalo Box 2"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

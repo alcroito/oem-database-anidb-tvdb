@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "8071",
+        "tvdb": "264533"
+    },
+    "names": [
+        "Snow Halation"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

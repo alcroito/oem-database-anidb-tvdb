@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14257",
+        "tvdb": "355219"
+    },
+    "names": [
+        "Kabukichou Sherlock"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

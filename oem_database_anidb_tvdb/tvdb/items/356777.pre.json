@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14489",
+        "tvdb": "356777"
+    },
+    "names": [
+        "Mini Toji"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14701",
+        "tvdb": "342131"
+    },
+    "names": [
+        "Radiant (2019)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

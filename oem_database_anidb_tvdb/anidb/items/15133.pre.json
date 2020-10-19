@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15133",
+        "tvdb": "341436"
+    },
+    "names": [
+        "Major 2nd (2020)"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14648",
+        "tvdb": "370951"
+    },
+    "names": [
+        "Super Shiro"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

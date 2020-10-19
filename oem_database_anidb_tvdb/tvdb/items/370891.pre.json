@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14658",
+        "tvdb": "370891"
+    },
+    "names": [
+        "Shin Chuuka Ichiban!"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

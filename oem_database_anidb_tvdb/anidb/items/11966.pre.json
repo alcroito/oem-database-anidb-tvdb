@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "11966",
+        "tvdb": "257765"
+    },
+    "names": [
+        "Gekijouban Kuroko no Baske: Last Game"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "36"
+    }
+}

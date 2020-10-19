@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14728",
+        "tvdb": "321532"
+    },
+    "names": [
+        "Tsugu Tsugumomo"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

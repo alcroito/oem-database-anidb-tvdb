@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13891",
+        "tvdb": "350084"
+    },
+    "names": [
+        "Revisions"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

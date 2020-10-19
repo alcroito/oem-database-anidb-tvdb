@@ -1,0 +1,40 @@
+{
+    "identifiers": {
+        "anidb": "13057",
+        "tvdb": "320459"
+    },
+    "names": [
+        "Chaos;Child: Silent Sky"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

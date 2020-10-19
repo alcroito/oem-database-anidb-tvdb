@@ -1,0 +1,53 @@
+{
+    "identifiers": {
+        "tvdb": "366263"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "15300"
+            },
+            "names": [
+                "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Eustachius no Shitamachi Sennyuu Daisakusen / Corinna-sama no Otaku Houmon"
+            ]
+        },
+        "1": {
+            "episodes": {
+                "15": {
+                    "identifiers": {
+                        "anidb": "15293"
+                    },
+                    "names": [
+                        "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "14"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "14727"
+            },
+            "names": [
+                "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen"
+            ]
+        }
+    }
+}

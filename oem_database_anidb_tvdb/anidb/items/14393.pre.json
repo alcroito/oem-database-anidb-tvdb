@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14393",
+        "tvdb": "372340"
+    },
+    "names": [
+        "Boku no Tonari ni Ankoku Hakaishin ga Imasu."
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

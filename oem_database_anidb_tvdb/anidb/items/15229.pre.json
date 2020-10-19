@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "15229",
+        "tvdb": "356032"
+    },
+    "names": [
+        "7 Seeds (2020)"
+    ],
+    "parameters": {
+        "default_season": "1",
+        "episode_offset": "12"
+    }
+}

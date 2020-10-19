@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14400",
+        "tvdb": "278818"
+    },
+    "names": [
+        "Gochuumon wa Usagi Desuka? Bloom"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

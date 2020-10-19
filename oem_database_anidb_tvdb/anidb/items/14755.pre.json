@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14755",
+        "tvdb": "361017"
+    },
+    "names": [
+        "Kuutei Dragons"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

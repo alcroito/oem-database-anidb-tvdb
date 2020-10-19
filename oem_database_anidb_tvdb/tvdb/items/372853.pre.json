@@ -1,0 +1,23 @@
+{
+    "identifiers": {
+        "tvdb": "372853"
+    },
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "14655"
+            },
+            "names": [
+                "A3! Season Spring & Summer"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "15048"
+            },
+            "names": [
+                "A3! Season Autumn & Winter"
+            ]
+        }
+    }
+}

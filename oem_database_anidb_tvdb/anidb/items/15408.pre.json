@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15408",
+        "tvdb": "378556"
+    },
+    "names": [
+        "The God of High School"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

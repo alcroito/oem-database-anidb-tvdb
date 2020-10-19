@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14988",
+        "tvdb": "357488"
+    },
+    "names": [
+        "Fruits Basket 2nd Season"
+    ],
+    "parameters": {
+        "default_season": "2"
+    }
+}

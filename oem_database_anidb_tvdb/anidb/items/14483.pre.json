@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "14483",
+        "tvdb": "370761"
+    },
+    "names": [
+        "Dorohedoro"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

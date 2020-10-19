@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15286",
+        "tvdb": "373131"
+    },
+    "names": [
+        "Skate Leading Stars"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

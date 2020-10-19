@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "13745",
+        "tvdb": "355970"
+    },
+    "names": [
+        "Grimms Notes the Animation"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}
