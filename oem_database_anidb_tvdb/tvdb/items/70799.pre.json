@@ -19,6 +19,22 @@
                 "Bakuten Shoot Beyblade"
             ]
         },
+        "10": {
+            "identifiers": {
+                "anidb": "13791"
+            },
+            "names": [
+                "Beyblade Burst Chouzetsu"
+            ]
+        },
+        "11": {
+            "identifiers": {
+                "anidb": "14688"
+            },
+            "names": [
+                "Beyblade Burst Gachi"
+            ]
+        },
         "2": {
             "identifiers": {
                 "anidb": "1964"
@@ -73,6 +89,14 @@
             },
             "names": [
                 "Beyblade Burst"
+            ]
+        },
+        "9": {
+            "identifiers": {
+                "anidb": "12809"
+            },
+            "names": [
+                "Beyblade Burst God"
             ]
         }
     }

@@ -46,6 +46,17 @@
                         "Liz to Aoi Tori"
                     ]
                 },
+                "19": {
+                    "identifiers": {
+                        "anidb": "13207"
+                    },
+                    "names": [
+                        "Gekijouban Hibike! Euphonium: Chikai no Finale"
+                    ],
+                    "parameters": {
+                        "episode_offset": "18"
+                    }
+                },
                 "8": {
                     "identifiers": {
                         "anidb": "10889"

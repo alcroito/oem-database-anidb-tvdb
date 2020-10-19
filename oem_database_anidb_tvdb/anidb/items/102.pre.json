@@ -19,6 +19,13 @@
                         }
                     ]
                 },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
+                },
                 "2": {
                     "mappings": [
                         {
@@ -67,17 +74,18 @@
                             "number": "0"
                         }
                     ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "0"
+                        }
+                    ]
                 }
             }
         },
         "1": {
             "mappings": [
-                {
-                    "end": 35,
-                    "offset": 0,
-                    "season": "1",
-                    "start": 1
-                },
                 {
                     "end": 46,
                     "offset": -35,

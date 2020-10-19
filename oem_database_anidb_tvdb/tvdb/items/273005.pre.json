@@ -3,6 +3,14 @@
         "tvdb": "273005"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "10739"
+            },
+            "names": [
+                "Dia no Ace (2014)"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "9881"
@@ -17,6 +25,14 @@
             },
             "names": [
                 "Dia no Ace: Second Season"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "14504"
+            },
+            "names": [
+                "Dia no Ace: Act II"
             ]
         }
     }

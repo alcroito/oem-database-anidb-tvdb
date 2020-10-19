@@ -5,26 +5,49 @@
     "seasons": {
         "0": {
             "episodes": {
-                "9": {
+                "10": {
                     "identifiers": {
-                        "anidb": "8517"
+                        "anidb": "14042"
                     },
                     "names": [
-                        "Kidou Senshi Gundam: The Origin"
+                        "Kidou Senshi Gundam Narrative"
                     ],
                     "parameters": {
-                        "episode_offset": "8"
+                        "episode_offset": "9"
+                    }
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "6517"
+                    },
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Gundam Unicorn"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
+                    }
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "6517"
+                    },
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ],
+                    "names": [
+                        "Kidou Senshi Gundam Unicorn"
+                    ],
+                    "supplemental": {
+                        "studio": "Sunrise"
                     }
                 }
-            },
-            "identifiers": {
-                "anidb": "6517"
-            },
-            "names": [
-                "Kidou Senshi Gundam Unicorn"
-            ],
-            "supplemental": {
-                "studio": "Sunrise"
             }
         },
         "1": {

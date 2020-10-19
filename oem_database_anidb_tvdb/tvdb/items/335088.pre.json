@@ -13,11 +13,19 @@
         },
         "1": {
             "identifiers": {
-                "anidb": "12622"
+                "anidb": [
+                    "12622",
+                    "14570"
+                ]
             },
-            "names": [
-                "Nekopara"
-            ]
+            "names": {
+                "12622": [
+                    "Nekopara"
+                ],
+                "14570": [
+                    "Nekopara (2020)"
+                ]
+            }
         }
     }
 }

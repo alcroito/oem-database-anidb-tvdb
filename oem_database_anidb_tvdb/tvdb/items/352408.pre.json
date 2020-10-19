@@ -1,12 +1,26 @@
 {
     "identifiers": {
-        "anidb": "13871",
         "tvdb": "352408"
     },
-    "names": [
-        "Tensei Shitara Slime Datta Ken"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "14526"
+            },
+            "names": [
+                "Tensei Shitara Slime Datta Ken (2019)"
+            ],
+            "parameters": {
+                "episode_offset": "1"
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "13871"
+            },
+            "names": [
+                "Tensei Shitara Slime Datta Ken"
+            ]
+        }
     }
 }

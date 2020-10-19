@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "14051",
         "tvdb": "348002"
     },
-    "names": [
-        "Yakusoku no Neverland"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "14051"
+            },
+            "names": [
+                "Yakusoku no Neverland"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14801"
+            },
+            "names": [
+                "Yakusoku no Neverland (2021)"
+            ]
+        }
     }
 }

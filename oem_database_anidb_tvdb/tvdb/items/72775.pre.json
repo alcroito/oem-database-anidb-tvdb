@@ -97,35 +97,39 @@
             },
             "names": [
                 "Saint Seiya"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 0
-            }
+            ]
         },
         "2": {
             "identifiers": {
                 "anidb": "826"
             },
+            "mappings": [
+                {
+                    "end": 26,
+                    "offset": 73,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Saint Seiya"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 73
-            }
+            ]
         },
         "3": {
             "identifiers": {
                 "anidb": "826"
             },
+            "mappings": [
+                {
+                    "end": 15,
+                    "offset": 99,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
             "names": [
                 "Saint Seiya"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 99
-            }
+            ]
         },
         "4": {
             "identifiers": {

@@ -63,42 +63,8 @@
                     "supplemental": {
                         "studio": "Studio Deen"
                     }
-                },
-                "8": {
-                    "identifiers": {
-                        "anidb": "8595"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen"
-                    ]
-                },
-                "9": {
-                    "identifiers": {
-                        "anidb": "8595"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen"
-                    ]
                 }
-            },
-            "identifiers": {
-                "anidb": "73"
-            },
-            "names": [
-                "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen"
-            ]
+            }
         },
         "1": {
             "identifiers": {
@@ -121,7 +87,7 @@
             ],
             "parameters": {
                 "default_season": 1,
-                "episode_offset": 28
+                "episode_offset": 27
             }
         },
         "3": {

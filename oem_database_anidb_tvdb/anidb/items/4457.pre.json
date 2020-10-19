@@ -1,7 +1,7 @@
 {
     "identifiers": {
         "anidb": "4457",
-        "tvdb": "74890"
+        "tvdb": "254931"
     },
     "names": [
         "Kidou Senshi Gundam SEED Destiny: Kudakareta Sekai"
@@ -15,7 +15,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "3",
+                            "number": "8",
                             "season": "0"
                         }
                     ]

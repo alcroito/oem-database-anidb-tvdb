@@ -26,6 +26,17 @@
                     "parameters": {
                         "episode_offset": "2"
                     }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "12577"
+                    },
+                    "names": [
+                        "Eiga Youkai Watch: Shadow Side - Oni Ou no Fukkatsu"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
                 }
             },
             "identifiers": {
@@ -43,12 +54,52 @@
                 "Youkai Watch"
             ]
         },
+        "2": {
+            "identifiers": {
+                "anidb": "9930"
+            },
+            "mappings": [
+                {
+                    "end": 74,
+                    "offset": 76,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Youkai Watch"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "9930"
+            },
+            "mappings": [
+                {
+                    "end": 64,
+                    "offset": 150,
+                    "season": "1",
+                    "start": 1
+                }
+            ],
+            "names": [
+                "Youkai Watch"
+            ]
+        },
         "4": {
             "identifiers": {
                 "anidb": "13807"
             },
             "names": [
                 "Youkai Watch: Shadow Side"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "14687"
+            },
+            "names": [
+                "Youkai Watch!"
             ]
         }
     }

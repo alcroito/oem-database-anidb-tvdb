@@ -4,6 +4,21 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "4": {
+                    "identifiers": {
+                        "anidb": "9342"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Boku wa Tomodachi ga Sukunai Next"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "8522"
             },

@@ -11,10 +11,6 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "1"
-                        },
-                        {
                             "number": "2",
                             "season": "1"
                         },
@@ -25,17 +21,16 @@
                     ],
                     "names": [
                         "Dragon Ball Z: Kiken na Futari! Super Senshi wa Nemurenai"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "9"
+                    }
                 },
                 "11": {
                     "identifiers": {
                         "anidb": "906"
                     },
                     "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        },
                         {
                             "number": "2",
                             "season": "1"
@@ -47,29 +42,21 @@
                     ],
                     "names": [
                         "Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "10"
+                    }
                 },
                 "12": {
                     "identifiers": {
                         "anidb": "1071"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        },
-                        {
-                            "number": "2",
-                            "season": "1"
-                        },
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Dragon Ball Z: Fukkatsu no Fusion!! Gokuu to Vegeta"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "11"
+                    }
                 },
                 "13": {
                     "identifiers": {
@@ -86,15 +73,12 @@
                     "identifiers": {
                         "anidb": "2336"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Dragon Ball Z Special: Tatta Hitori no Saishuu Kessen - Freezer ni Idonda Z Senshi Son Gokuu no Chichi"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "13"
+                    }
                 },
                 "15": {
                     "identifiers": {
@@ -111,15 +95,12 @@
                     "identifiers": {
                         "anidb": "6127"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Dragon Ball: Ossu! Kaette Kita Son Gokuu to Nakama-tachi!!"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "15"
+                    }
                 },
                 "17": {
                     "identifiers": {
@@ -127,13 +108,16 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
+                            "number": "401",
                             "season": "1"
                         }
                     ],
                     "names": [
                         "Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "16"
+                    }
                 },
                 "18": {
                     "identifiers": {
@@ -141,13 +125,20 @@
                     },
                     "mappings": [
                         {
-                            "number": "2",
+                            "number": "402",
+                            "season": "1"
+                        },
+                        {
+                            "number": "403",
                             "season": "1"
                         }
                     ],
                     "names": [
                         "Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "16"
+                    }
                 },
                 "2": {
                     "identifiers": {
@@ -155,7 +146,6 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
                             "season": "1"
                         },
                         {
@@ -166,6 +156,9 @@
                     "names": [
                         "Dragon Ball Z: Kono Yo de Ichiban Tsuyoi Yatsu"
                     ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    },
                     "supplemental": {
                         "studio": "Toei Animation"
                     }
@@ -174,43 +167,23 @@
                     "identifiers": {
                         "anidb": "6540"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Dragon Ball Z: Atsumare! Gokuu World"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "19"
+                    }
                 },
                 "21": {
                     "identifiers": {
                         "anidb": "8809"
                     },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
                     "names": [
                         "Dragon Ball: Episode of Bardock"
-                    ]
-                },
-                "22": {
-                    "identifiers": {
-                        "anidb": "9314"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
                     ],
-                    "names": [
-                        "Dragon Ball Z: Kami to Kami"
-                    ]
+                    "parameters": {
+                        "episode_offset": "20"
+                    }
                 },
                 "3": {
                     "identifiers": {
@@ -239,7 +212,7 @@
                         "anidb": "1045"
                     },
                     "names": [
-                        "Dragon Ball Z: Tobikkiri no Saikyou Tai Saikyou"
+                        "Dragon Ball Z: Tobikkiri no Saikyou tai Saikyou"
                     ],
                     "parameters": {
                         "episode_offset": "4"
@@ -273,10 +246,6 @@
                     },
                     "mappings": [
                         {
-                            "number": "1",
-                            "season": "1"
-                        },
-                        {
                             "number": "2",
                             "season": "1"
                         },
@@ -287,17 +256,16 @@
                     ],
                     "names": [
                         "Dragon Ball Z: Moetsukiro!! Nessen, Ressen, Chougekisen"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    }
                 },
                 "9": {
                     "identifiers": {
                         "anidb": "1069"
                     },
                     "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        },
                         {
                             "number": "2",
                             "season": "1"
@@ -309,7 +277,10 @@
                     ],
                     "names": [
                         "Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu"
-                    ]
+                    ],
+                    "parameters": {
+                        "episode_offset": "8"
+                    }
                 }
             },
             "identifiers": {

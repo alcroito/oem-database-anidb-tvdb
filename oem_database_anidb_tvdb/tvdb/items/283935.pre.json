@@ -4,6 +4,35 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "12263"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Trinity Seven: Eternity Library to Alchemic Girl"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "14196"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Trinity Seven: Heavens Library to Crimson Lord"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "10914"
             },

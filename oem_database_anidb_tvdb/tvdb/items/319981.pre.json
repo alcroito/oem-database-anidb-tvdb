@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "11597",
         "tvdb": "319981"
     },
-    "names": [
-        "Granblue Fantasy The Animation"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "11597"
+            },
+            "names": [
+                "Granblue Fantasy The Animation"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13524"
+            },
+            "names": [
+                "Granblue Fantasy The Animation Season 2"
+            ]
+        }
     }
 }

@@ -1,7 +1,7 @@
 {
     "identifiers": {
         "anidb": "4905",
-        "tvdb": "74890"
+        "tvdb": "254931"
     },
     "names": [
         "Kidou Senshi Gundam SEED Destiny: Jiyuu no Daishou"
@@ -15,7 +15,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "6",
+                            "number": "10",
                             "season": "0"
                         }
                     ]

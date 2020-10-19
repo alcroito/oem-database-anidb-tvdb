@@ -1,12 +1,31 @@
 {
     "identifiers": {
-        "anidb": "14289",
         "tvdb": "359095"
     },
-    "names": [
-        "Bokutachi wa Benkyou ga Dekinai"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "14918"
+            },
+            "names": [
+                "Bokutachi wa Benkyou ga Dekinai OAD"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "14289"
+            },
+            "names": [
+                "Bokutachi wa Benkyou ga Dekinai"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14968"
+            },
+            "names": [
+                "Bokutachi wa Benkyou ga Dekinai!"
+            ]
+        }
     }
 }

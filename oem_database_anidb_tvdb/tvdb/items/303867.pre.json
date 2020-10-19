@@ -26,6 +26,17 @@
                     "parameters": {
                         "episode_offset": "3"
                     }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "13310"
+                    },
+                    "names": [
+                        "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    }
                 }
             }
         },

@@ -18,7 +18,7 @@
                             "season": "1"
                         },
                         {
-                            "number": "2",
+                            "number": "3",
                             "season": "1"
                         }
                     ],
@@ -28,6 +28,32 @@
                 },
                 "2": {
                     "identifiers": {
+                        "anidb": "1457"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Ashita no Joe"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "1457"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Ashita no Joe"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
                         "anidb": "4862"
                     },
                     "mappings": [
@@ -36,6 +62,7 @@
                             "season": "1"
                         },
                         {
+                            "number": "2",
                             "season": "1"
                         },
                         {

@@ -19,6 +19,30 @@
                 "Duel Masters"
             ]
         },
+        "10": {
+            "identifiers": {
+                "anidb": "10522"
+            },
+            "names": [
+                "Duel Masters Versus"
+            ]
+        },
+        "11": {
+            "identifiers": {
+                "anidb": "11032"
+            },
+            "names": [
+                "Duel Masters Versus Revolution"
+            ]
+        },
+        "12": {
+            "identifiers": {
+                "anidb": "11891"
+            },
+            "names": [
+                "Duel Masters VSRF"
+            ]
+        },
         "3": {
             "identifiers": {
                 "anidb": "5537"

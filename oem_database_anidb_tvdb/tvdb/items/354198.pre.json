@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "14111",
         "tvdb": "354198"
     },
-    "names": [
-        "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "14111"
+            },
+            "names": [
+                "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "15207"
+            },
+            "names": [
+                "Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren'ai Zunousen"
+            ]
+        }
     }
 }

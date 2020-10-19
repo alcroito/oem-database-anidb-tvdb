@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "13517",
         "tvdb": "341437"
     },
-    "names": [
-        "Megalo Box"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "13517"
+            },
+            "names": [
+                "Megalo Box"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "15271"
+            },
+            "names": [
+                "Megalo Box 2"
+            ]
+        }
     }
 }

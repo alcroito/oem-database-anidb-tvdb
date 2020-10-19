@@ -521,6 +521,17 @@
                         "Lupin Sansei: Italian Game"
                     ]
                 },
+                "45": {
+                    "identifiers": {
+                        "anidb": "15198"
+                    },
+                    "names": [
+                        "Lupin Sansei: Prison of the Past"
+                    ],
+                    "parameters": {
+                        "episode_offset": "44"
+                    }
+                },
                 "5": {
                     "identifiers": {
                         "anidb": "320"

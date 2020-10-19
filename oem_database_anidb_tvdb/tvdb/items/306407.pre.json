@@ -3,6 +3,62 @@
         "tvdb": "306407"
     },
     "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "12104"
+                    },
+                    "names": [
+                        "Koi ni Naritai Aquarium"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "12915"
+                    },
+                    "names": [
+                        "Happy Party Train"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "12897"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Love Live! Sunshine!! (2017)"
+                    ]
+                },
+                "6": {
+                    "identifiers": {
+                        "anidb": "13703"
+                    },
+                    "names": [
+                        "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+                    ],
+                    "parameters": {
+                        "episode_offset": "5"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "11645"
+            },
+            "names": [
+                "Kimi no Kokoro wa Kagayaiterukai?"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "11878"

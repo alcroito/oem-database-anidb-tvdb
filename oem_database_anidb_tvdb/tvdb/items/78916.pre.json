@@ -1,22 +1,38 @@
 {
     "identifiers": {
-        "anidb": "2400",
         "tvdb": "78916"
     },
-    "names": [
-        "Gantz"
-    ],
-    "parameters": {
-        "default_season": "1"
-    },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "11778"
+            },
+            "names": [
+                "Gantz O"
+            ],
+            "parameters": {
+                "episode_offset": "2"
+            }
+        },
         "1": {
+            "identifiers": {
+                "anidb": "2400"
+            },
+            "names": [
+                "Gantz"
+            ],
             "parameters": {
                 "default_season": 1,
                 "episode_offset": 0
             }
         },
         "2": {
+            "identifiers": {
+                "anidb": "2400"
+            },
+            "names": [
+                "Gantz"
+            ],
             "parameters": {
                 "default_season": 1,
                 "episode_offset": 13

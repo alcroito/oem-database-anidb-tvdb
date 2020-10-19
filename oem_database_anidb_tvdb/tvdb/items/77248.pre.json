@@ -6,9 +6,6 @@
         "0": {
             "episodes": {
                 "1": {
-                    "identifiers": {
-                        "anidb": "321"
-                    },
                     "mappings": [
                         {
                             "season": "1"
@@ -33,25 +30,14 @@
                             "number": "6",
                             "season": "1"
                         }
-                    ],
-                    "names": [
-                        "Escaflowne"
                     ]
                 }
             },
-            "mappings": [
-                {
-                    "end": 9,
-                    "identifiers": {
-                        "anidb": "184"
-                    },
-                    "names": [
-                        "Tenkuu no Escaflowne"
-                    ],
-                    "offset": -2,
-                    "season": "0",
-                    "start": 3
-                }
+            "identifiers": {
+                "anidb": "321"
+            },
+            "names": [
+                "Escaflowne"
             ]
         },
         "1": {

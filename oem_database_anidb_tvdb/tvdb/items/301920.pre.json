@@ -44,6 +44,20 @@
                     "names": [
                         "Monster Strike Anime"
                     ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "14108"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Monster Strike the Movie: Sora no Kanata"
+                    ]
                 }
             }
         },

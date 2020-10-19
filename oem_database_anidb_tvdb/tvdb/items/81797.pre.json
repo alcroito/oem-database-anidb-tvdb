@@ -24,7 +24,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "3"
+                            "number": "4"
                         }
                     ],
                     "names": [
@@ -86,7 +86,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "4"
+                            "number": "5"
                         }
                     ],
                     "names": [
@@ -225,7 +225,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "16"
+                            "number": "17"
                         }
                     ],
                     "names": [
@@ -238,14 +238,14 @@
                     },
                     "mappings": [
                         {
-                            "number": "17"
+                            "number": "18"
                         }
                     ],
                     "names": [
                         "One Piece"
                     ]
                 },
-                "26": {
+                "27": {
                     "identifiers": {
                         "anidb": "8940"
                     },
@@ -262,38 +262,9 @@
                     ],
                     "names": [
                         "One Piece Film: Z"
-                    ],
-                    "parameters": {
-                        "episode_offset": "26"
-                    }
+                    ]
                 },
                 "28": {
-                    "identifiers": {
-                        "anidb": "69"
-                    },
-                    "mappings": [
-                        {
-                            "number": "5"
-                        }
-                    ],
-                    "names": [
-                        "One Piece"
-                    ]
-                },
-                "29": {
-                    "identifiers": {
-                        "anidb": "69"
-                    },
-                    "mappings": [
-                        {
-                            "number": "18"
-                        }
-                    ],
-                    "names": [
-                        "One Piece"
-                    ]
-                },
-                "3": {
                     "identifiers": {
                         "anidb": "69"
                     },
@@ -306,13 +277,39 @@
                         "One Piece"
                     ]
                 },
-                "30": {
+                "29": {
                     "identifiers": {
                         "anidb": "69"
                     },
                     "mappings": [
                         {
                             "number": "19"
+                        }
+                    ],
+                    "names": [
+                        "One Piece"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "69"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "One Piece"
+                    ]
+                },
+                "30": {
+                    "identifiers": {
+                        "anidb": "69"
+                    },
+                    "mappings": [
+                        {
+                            "number": "20"
                         }
                     ],
                     "names": [
@@ -338,7 +335,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "20"
+                            "number": "16"
                         }
                     ],
                     "names": [
@@ -358,6 +355,20 @@
                         "One Piece"
                     ]
                 },
+                "34": {
+                    "identifiers": {
+                        "anidb": "11529"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "One Piece Film: Gold"
+                    ]
+                },
                 "35": {
                     "identifiers": {
                         "anidb": "69"
@@ -371,36 +382,7 @@
                         "One Piece"
                     ]
                 },
-                "36": {
-                    "identifiers": {
-                        "anidb": "11529"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
-                    "names": [
-                        "One Piece Film: Gold"
-                    ],
-                    "parameters": {
-                        "episode_offset": "33"
-                    }
-                },
                 "37": {
-                    "identifiers": {
-                        "anidb": "69"
-                    },
-                    "mappings": [
-                        {
-                            "number": "25"
-                        }
-                    ],
-                    "names": [
-                        "One Piece"
-                    ]
-                },
-                "38": {
                     "identifiers": {
                         "anidb": "69"
                     },
@@ -413,7 +395,34 @@
                         "One Piece"
                     ]
                 },
-                "5": {
+                "38": {
+                    "identifiers": {
+                        "anidb": "69"
+                    },
+                    "mappings": [
+                        {
+                            "number": "27"
+                        }
+                    ],
+                    "names": [
+                        "One Piece"
+                    ]
+                },
+                "39": {
+                    "identifiers": {
+                        "anidb": "14318"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban One Piece: Stampede"
+                    ]
+                },
+                "4": {
                     "identifiers": {
                         "anidb": "893"
                     },
@@ -424,12 +433,9 @@
                     ],
                     "names": [
                         "One Piece: Nejimakijima no Bouken"
-                    ],
-                    "parameters": {
-                        "episode_offset": "3"
-                    }
+                    ]
                 },
-                "7": {
+                "6": {
                     "identifiers": {
                         "anidb": "1253"
                     },
@@ -440,10 +446,7 @@
                     ],
                     "names": [
                         "One Piece: Chinjuujima no Chopper Oukoku"
-                    ],
-                    "parameters": {
-                        "episode_offset": "5"
-                    }
+                    ]
                 },
                 "8": {
                     "identifiers": {
@@ -473,7 +476,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "3"
                         }
                     ],
                     "names": [
@@ -636,6 +639,18 @@
             "parameters": {
                 "default_season": 1,
                 "episode_offset": 877
+            }
+        },
+        "21": {
+            "identifiers": {
+                "anidb": "69"
+            },
+            "names": [
+                "One Piece"
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 891
             }
         },
         "3": {

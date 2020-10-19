@@ -4,6 +4,34 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "12689"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Non Non Biyori Repeat: Hotaru ga Tanoshinda"
+                    ]
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "13187"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Non Non Biyori: Vacation"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "10232"
             },
@@ -25,6 +53,14 @@
             },
             "names": [
                 "Non Non Biyori Repeat"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "14914"
+            },
+            "names": [
+                "Non Non Biyori Nonstop"
             ]
         }
     }

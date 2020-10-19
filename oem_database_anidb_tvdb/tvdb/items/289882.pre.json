@@ -4,6 +4,34 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "3": {
+                    "identifiers": {
+                        "anidb": "13829"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II"
+                    ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "13829"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II"
+                    ]
+                }
+            },
             "identifiers": {
                 "anidb": "11941"
             },
@@ -17,6 +45,14 @@
             },
             "names": [
                 "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13829"
+            },
+            "names": [
+                "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II"
             ]
         }
     }

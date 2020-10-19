@@ -131,7 +131,11 @@
             },
             "names": [
                 "Fairy Tail (2018)"
-            ]
+            ],
+            "parameters": {
+                "default_season": 1,
+                "episode_offset": 0
+            }
         }
     }
 }

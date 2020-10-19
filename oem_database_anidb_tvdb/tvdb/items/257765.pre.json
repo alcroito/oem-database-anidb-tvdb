@@ -29,6 +29,17 @@
                     "parameters": {
                         "episode_offset": "24"
                     }
+                },
+                "37": {
+                    "identifiers": {
+                        "anidb": "11966"
+                    },
+                    "names": [
+                        "Gekijouban Kuroko no Baske: Last Game"
+                    ],
+                    "parameters": {
+                        "episode_offset": "36"
+                    }
                 }
             }
         },

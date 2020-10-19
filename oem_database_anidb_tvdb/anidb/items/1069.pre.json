@@ -7,19 +7,12 @@
         "Dragon Ball Z: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "8"
     },
     "seasons": {
         "1": {
             "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "9",
-                            "season": "0"
-                        }
-                    ]
-                },
                 "2": {
                     "mappings": [
                         {

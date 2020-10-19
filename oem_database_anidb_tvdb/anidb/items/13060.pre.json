@@ -7,7 +7,20 @@
         "Cardcaptor Sakura: Clear Card Hen - Prologue - Sakura to Futatsu no Kuma"
     ],
     "parameters": {
-        "default_season": "0",
-        "episode_offset": "6"
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

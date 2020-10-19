@@ -1,12 +1,12 @@
 {
     "identifiers": {
         "anidb": "13791",
-        "tvdb": "337483"
+        "tvdb": "70799"
     },
     "names": [
         "Beyblade Burst Chouzetsu"
     ],
     "parameters": {
-        "default_season": "3"
+        "default_season": "10"
     }
 }

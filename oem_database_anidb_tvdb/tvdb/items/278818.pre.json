@@ -4,6 +4,19 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "2": {
+                    "identifiers": {
+                        "anidb": "14401"
+                    },
+                    "names": [
+                        "Gochuumon wa Usagi Desuka?? Sing for You"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "12118"
             },
@@ -25,6 +38,14 @@
             },
             "names": [
                 "Gochuumon wa Usagi Desuka??"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "14400"
+            },
+            "names": [
+                "Gochuumon wa Usagi Desuka? Bloom"
             ]
         }
     }

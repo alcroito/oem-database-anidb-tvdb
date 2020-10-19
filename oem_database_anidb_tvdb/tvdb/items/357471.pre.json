@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "14435",
         "tvdb": "357471"
     },
-    "names": [
-        "Isekai Quartet"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "14435"
+            },
+            "names": [
+                "Isekai Quartet"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14964"
+            },
+            "names": [
+                "Isekai Quartet 2"
+            ]
+        }
     }
 }

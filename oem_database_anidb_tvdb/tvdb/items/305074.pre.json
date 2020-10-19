@@ -6,20 +6,41 @@
         "0": {
             "episodes": {
                 "3": {
+                    "identifiers": {
+                        "anidb": "12344"
+                    },
                     "mappings": [
                         {
-                            "number": "2",
-                            "season": "1"
+                            "number": "2"
                         }
+                    ],
+                    "names": [
+                        "Boku no Hero Academia (2016)"
                     ]
+                },
+                "4": {
+                    "identifiers": {
+                        "anidb": "13633"
+                    },
+                    "names": [
+                        "Boku no Hero Academia the Movie: Futari no Hero"
+                    ],
+                    "parameters": {
+                        "episode_offset": "3"
+                    }
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "14776"
+                    },
+                    "names": [
+                        "Boku no Hero Academia the Movie: Heroes:Rising"
+                    ],
+                    "parameters": {
+                        "episode_offset": "6"
+                    }
                 }
-            },
-            "identifiers": {
-                "anidb": "12344"
-            },
-            "names": [
-                "Boku no Hero Academia (2016)"
-            ]
+            }
         },
         "1": {
             "identifiers": {
@@ -43,6 +64,22 @@
             },
             "names": [
                 "Boku no Hero Academia (2018)"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "14416"
+            },
+            "names": [
+                "Boku no Hero Academia (2019)"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "15484"
+            },
+            "names": [
+                "Boku no Hero Academia 5"
             ]
         }
     }

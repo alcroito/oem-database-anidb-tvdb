@@ -47,6 +47,32 @@
                     "parameters": {
                         "episode_offset": "21"
                     }
+                },
+                "24": {
+                    "identifiers": {
+                        "anidb": "13493"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Sword Art Online: Alicization"
+                    ]
+                },
+                "25": {
+                    "identifiers": {
+                        "anidb": "13493"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Sword Art Online: Alicization"
+                    ]
                 }
             },
             "identifiers": {
@@ -78,6 +104,27 @@
             },
             "names": [
                 "Sword Art Online: Alicization"
+            ]
+        },
+        "4": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "15146"
+                    },
+                    "names": [
+                        "Sword Art Online: Alicization - War of Underworld (2020)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "14796"
+            },
+            "names": [
+                "Sword Art Online: Alicization - War of Underworld"
             ]
         }
     }

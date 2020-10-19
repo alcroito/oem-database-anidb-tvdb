@@ -7,6 +7,7 @@
         "Aria the OVA: Arietta"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "1"
     }
 }

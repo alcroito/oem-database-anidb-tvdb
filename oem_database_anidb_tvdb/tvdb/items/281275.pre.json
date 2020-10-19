@@ -18,18 +18,16 @@
                         "Saenai Heroine no Sodatekata"
                     ]
                 },
-                "2": {
+                "3": {
                     "identifiers": {
-                        "anidb": "11221"
+                        "anidb": "13626"
                     },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
                     "names": [
-                        "Saenai Heroine no Sodatekata Flat"
-                    ]
+                        "Saenai Heroine no Sodatekata Fine"
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
                 }
             }
         },

@@ -50,6 +50,22 @@
             "names": [
                 "Shokugeki no Souma: San no Sara"
             ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "14951"
+            },
+            "names": [
+                "Shokugeki no Souma: Shin no Sara"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "15319"
+            },
+            "names": [
+                "Shokugeki no Souma: Gou no Sara"
+            ]
         }
     }
 }

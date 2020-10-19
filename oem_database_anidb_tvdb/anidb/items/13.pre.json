@@ -19,38 +19,24 @@
                         }
                     ]
                 },
-                "101": {
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ]
-                },
-                "102": {
-                    "mappings": [
-                        {
-                            "number": "2"
-                        }
-                    ]
-                },
                 "2": {
                     "mappings": [
                         {
-                            "number": "6"
+                            "number": "0"
                         }
                     ]
                 },
                 "3": {
                     "mappings": [
                         {
-                            "number": "7"
+                            "number": "0"
                         }
                     ]
                 },
                 "4": {
                     "mappings": [
                         {
-                            "number": "5"
+                            "number": "0"
                         }
                     ]
                 }

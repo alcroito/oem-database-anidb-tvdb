@@ -13,19 +13,19 @@
         },
         "1": {
             "identifiers": {
-                "anidb": [
-                    "10763",
-                    "9298"
-                ]
+                "anidb": "9298"
             },
-            "names": {
-                "10763": [
-                    "Kamisama Hajimemashita 2"
-                ],
-                "9298": [
-                    "Kamisama Hajimemashita"
-                ]
-            }
+            "names": [
+                "Kamisama Hajimemashita"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "10763"
+            },
+            "names": [
+                "Kamisama Hajimemashita 2"
+            ]
         }
     }
 }

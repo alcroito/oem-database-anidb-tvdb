@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "14198",
         "tvdb": "351953"
     },
-    "names": [
-        "Zombie Land Saga"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "14198"
+            },
+            "names": [
+                "Zombie Land Saga"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "15028"
+            },
+            "names": [
+                "Zombie Land Saga Revenge"
+            ]
+        }
     }
 }

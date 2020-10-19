@@ -59,6 +59,43 @@
                         "Gekijouban Soushuuhen Overlord"
                     ]
                 },
+                "14": {
+                    "identifiers": {
+                        "anidb": "12439"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Soushuuhen Overlord"
+                    ]
+                },
+                "15": {
+                    "identifiers": {
+                        "anidb": "12439"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Soushuuhen Overlord"
+                    ]
+                },
+                "42": {
+                    "identifiers": {
+                        "anidb": "14494"
+                    },
+                    "names": [
+                        "Ple Ple Pleiades: Clementine Toubou Hen"
+                    ],
+                    "parameters": {
+                        "episode_offset": "41"
+                    }
+                },
                 "9": {
                     "identifiers": {
                         "anidb": "12147"

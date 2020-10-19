@@ -88,25 +88,9 @@
             },
             "names": [
                 "Gensou Maden Saiyuuki"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 0
-            }
+            ]
         },
         "2": {
-            "identifiers": {
-                "anidb": "488"
-            },
-            "names": [
-                "Gensou Maden Saiyuuki"
-            ],
-            "parameters": {
-                "default_season": 1,
-                "episode_offset": 26
-            }
-        },
-        "3": {
             "identifiers": {
                 "anidb": "1081"
             },
@@ -117,7 +101,7 @@
                 "studio": "Studio Pierrot"
             }
         },
-        "4": {
+        "3": {
             "identifiers": {
                 "anidb": "1594"
             },
@@ -128,7 +112,7 @@
                 "studio": "Studio Pierrot"
             }
         },
-        "5": {
+        "4": {
             "identifiers": {
                 "anidb": "12287"
             },

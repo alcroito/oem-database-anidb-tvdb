@@ -35,6 +35,58 @@
                 },
                 "12": {
                     "identifiers": {
+                        "anidb": "10795"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Mahou Shoujo Lyrical Nanoha Vivid"
+                    ]
+                },
+                "13": {
+                    "identifiers": {
+                        "anidb": "12264"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "ViVid Strike!"
+                    ]
+                },
+                "14": {
+                    "identifiers": {
+                        "anidb": "12264"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "ViVid Strike!"
+                    ]
+                },
+                "15": {
+                    "identifiers": {
+                        "anidb": "12264"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4"
+                        }
+                    ],
+                    "names": [
+                        "ViVid Strike!"
+                    ]
+                },
+                "16": {
+                    "identifiers": {
                         "anidb": "9788"
                     },
                     "mappings": [
@@ -45,6 +97,20 @@
                     ],
                     "names": [
                         "Magical Girl Lyrical Nanoha Reflection"
+                    ]
+                },
+                "17": {
+                    "identifiers": {
+                        "anidb": "13301"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Magical Girl Lyrical Nanoha Detonation"
                     ]
                 }
             },
@@ -85,6 +151,22 @@
             },
             "names": [
                 "Mahou Shoujo Lyrical Nanoha Vivid"
+            ]
+        },
+        "5": {
+            "identifiers": {
+                "anidb": "12264"
+            },
+            "names": [
+                "ViVid Strike!"
+            ]
+        },
+        "6": {
+            "identifiers": {
+                "anidb": "12272"
+            },
+            "names": [
+                "Mahou Shoujo Lyrical Nanoha (Shinsaku)"
             ]
         }
     }

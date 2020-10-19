@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "10925",
         "tvdb": "313534"
     },
-    "names": [
-        "Tsukiuta. The Animation"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "10925"
+            },
+            "names": [
+                "Tsukiuta. The Animation"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14485"
+            },
+            "names": [
+                "Tsukiuta. The Animation 2"
+            ]
+        }
     }
 }

@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "14490",
         "tvdb": "357488"
     },
-    "names": [
-        "Fruits Basket (2019)"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "14490"
+            },
+            "names": [
+                "Fruits Basket 1st Season"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14988"
+            },
+            "names": [
+                "Fruits Basket 2nd Season"
+            ]
+        }
     }
 }

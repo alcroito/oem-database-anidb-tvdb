@@ -1,12 +1,12 @@
 {
     "identifiers": {
         "anidb": "11672",
-        "tvdb": "262094"
+        "tvdb": "310718"
     },
     "names": [
         "Magi: Sindbad no Bouken (2016)"
     ],
     "parameters": {
-        "default_season": "3"
+        "default_season": "1"
     }
 }

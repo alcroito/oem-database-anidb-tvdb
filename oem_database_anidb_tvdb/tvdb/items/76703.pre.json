@@ -352,7 +352,7 @@
                         }
                     ],
                     "names": [
-                        "Pikachuu Koori no Daibouken"
+                        "Pikachu Koori no Daibouken"
                     ]
                 },
                 "32": {
@@ -466,7 +466,7 @@
                         }
                     ],
                     "names": [
-                        "Pocket Monsters: Pikachu no Fuyuyasumi (2001)"
+                        "Pichu to Pikachu no Fuyuyasumi (2001)"
                     ]
                 },
                 "39": {
@@ -625,62 +625,6 @@
                     "parameters": {
                         "episode_offset": "4"
                     }
-                },
-                "50": {
-                    "identifiers": {
-                        "anidb": "10563"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Pocket Monsters XY: Mega Evolution"
-                    ]
-                },
-                "55": {
-                    "identifiers": {
-                        "anidb": "10563"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Pocket Monsters XY: Mega Evolution"
-                    ]
-                },
-                "56": {
-                    "identifiers": {
-                        "anidb": "10563"
-                    },
-                    "mappings": [
-                        {
-                            "number": "3",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Pocket Monsters XY: Mega Evolution"
-                    ]
-                },
-                "59": {
-                    "identifiers": {
-                        "anidb": "10563"
-                    },
-                    "mappings": [
-                        {
-                            "number": "4",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Pocket Monsters XY: Mega Evolution"
-                    ]
                 },
                 "6": {
                     "identifiers": {
@@ -2711,6 +2655,14 @@
             },
             "names": [
                 "Pocket Monsters XY"
+            ]
+        },
+        "19": {
+            "identifiers": {
+                "anidb": "15067"
+            },
+            "names": [
+                "Pocket Monsters (2019)"
             ]
         },
         "2": {

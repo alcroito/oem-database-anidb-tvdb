@@ -9,19 +9,5 @@
     "parameters": {
         "default_season": "0",
         "episode_offset": "5"
-    },
-    "seasons": {
-        "1": {
-            "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "6",
-                            "season": "0"
-                        }
-                    ]
-                }
-            }
-        }
     }
 }

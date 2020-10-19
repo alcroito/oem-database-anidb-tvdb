@@ -15,6 +15,20 @@
                     "parameters": {
                         "episode_offset": "1"
                     }
+                },
+                "7": {
+                    "identifiers": {
+                        "anidb": "14135"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Tantei Opera Milky Holmes: Psycho no Aisatsu"
+                    ]
                 }
             },
             "identifiers": {

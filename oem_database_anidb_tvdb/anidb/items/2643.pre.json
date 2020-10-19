@@ -7,12 +7,13 @@
         "Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "16"
     },
     "seasons": {
         "1": {
             "episodes": {
-                "1": {
+                "401": {
                     "mappings": [
                         {
                             "number": "17",
@@ -20,7 +21,15 @@
                         }
                     ]
                 },
-                "2": {
+                "402": {
+                    "mappings": [
+                        {
+                            "number": "18",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "403": {
                     "mappings": [
                         {
                             "number": "18",

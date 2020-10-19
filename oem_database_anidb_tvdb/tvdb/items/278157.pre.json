@@ -65,7 +65,7 @@
                         "anidb": "13332"
                     },
                     "names": [
-                        "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun"
+                        "Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou: Tokushuu! Haru Kou Volley ni Kaketa Seishun"
                     ],
                     "parameters": {
                         "episode_offset": "4"
@@ -98,6 +98,17 @@
                     "names": [
                         "Gekijouban Soushuuhen Haikyuu!!"
                     ]
+                },
+                "8": {
+                    "identifiers": {
+                        "anidb": "15045"
+                    },
+                    "names": [
+                        "Haikyuu!! (2019)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "7"
+                    }
                 }
             }
         },
@@ -123,6 +134,27 @@
             },
             "names": [
                 "Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou"
+            ]
+        },
+        "4": {
+            "episodes": {
+                "14": {
+                    "identifiers": {
+                        "anidb": "15283"
+                    },
+                    "names": [
+                        "Haikyuu!! To the Top (2020)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "13"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "14552"
+            },
+            "names": [
+                "Haikyuu!! To the Top"
             ]
         }
     }

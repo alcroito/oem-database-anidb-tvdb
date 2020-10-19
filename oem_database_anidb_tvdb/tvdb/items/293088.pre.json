@@ -5,6 +5,19 @@
     "seasons": {
         "0": {
             "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "12430"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man (2019)"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "11123"
@@ -90,6 +103,19 @@
                     "mappings": [
                         {
                             "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "One Punch Man (2019)"
+                    ]
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "12430"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
                         }
                     ],
                     "names": [

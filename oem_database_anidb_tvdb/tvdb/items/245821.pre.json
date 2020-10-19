@@ -19,6 +19,14 @@
                 "Cardfight!! Vanguard"
             ]
         },
+        "10": {
+            "identifiers": {
+                "anidb": "13635"
+            },
+            "names": [
+                "Cardfight!! Vanguard (2018)"
+            ]
+        },
         "2": {
             "identifiers": {
                 "anidb": "8974"
@@ -49,6 +57,14 @@
             },
             "names": [
                 "Cardfight!! Vanguard G: Girs Crisis Hen"
+            ]
+        },
+        "7": {
+            "identifiers": {
+                "anidb": "11946"
+            },
+            "names": [
+                "Cardfight!! Vanguard G: Stride Gate Hen"
             ]
         },
         "8": {

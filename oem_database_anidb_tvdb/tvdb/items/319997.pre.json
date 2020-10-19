@@ -1,12 +1,73 @@
 {
     "identifiers": {
-        "anidb": "12057",
         "tvdb": "319997"
     },
-    "names": [
-        "Kemono Friends"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "identifiers": {
+                        "anidb": "12057"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Kemono Friends"
+                    ]
+                },
+                "2": {
+                    "identifiers": {
+                        "anidb": "13380"
+                    },
+                    "names": [
+                        "Uma no Friends"
+                    ],
+                    "parameters": {
+                        "episode_offset": "1"
+                    }
+                },
+                "3": {
+                    "identifiers": {
+                        "anidb": "13413"
+                    },
+                    "names": [
+                        "Kemono Friends x Anisama 2017 \"Anisama\""
+                    ],
+                    "parameters": {
+                        "episode_offset": "2"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "14857"
+                    },
+                    "names": [
+                        "Chokotto Anime Kemono Friends 3"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
+                    }
+                }
+            }
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "12057"
+            },
+            "names": [
+                "Kemono Friends"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "13055"
+            },
+            "names": [
+                "Kemono Friends 2"
+            ]
+        }
     }
 }

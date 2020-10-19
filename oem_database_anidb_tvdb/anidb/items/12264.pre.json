@@ -1,12 +1,46 @@
 {
     "identifiers": {
         "anidb": "12264",
-        "tvdb": "315097"
+        "tvdb": "81115"
     },
     "names": [
         "ViVid Strike!"
     ],
     "parameters": {
-        "default_season": "1"
+        "default_season": "5"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "99"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "13"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "14"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "15"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

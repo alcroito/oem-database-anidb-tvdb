@@ -77,6 +77,14 @@
             "names": [
                 "Furi Kuri Progressive"
             ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "13258"
+            },
+            "names": [
+                "Furi Kuri Alternative"
+            ]
         }
     }
 }

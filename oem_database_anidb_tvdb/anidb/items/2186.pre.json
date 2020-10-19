@@ -1,13 +1,13 @@
 {
     "identifiers": {
         "anidb": "2186",
-        "tvdb": "74890"
+        "tvdb": "254931"
     },
     "names": [
         "Kidou Senshi Gundam SEED Destiny"
     ],
     "parameters": {
-        "default_season": "1"
+        "default_season": "2"
     },
     "supplemental": {
         "studio": "Sunrise"

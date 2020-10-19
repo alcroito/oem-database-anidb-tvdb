@@ -59,34 +59,6 @@
                         "Shingeki no Kyojin OAD"
                     ]
                 },
-                "14": {
-                    "identifiers": {
-                        "anidb": "10583"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Gekijouban Shingeki no Kyojin"
-                    ]
-                },
-                "15": {
-                    "identifiers": {
-                        "anidb": "10583"
-                    },
-                    "mappings": [
-                        {
-                            "number": "2",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Gekijouban Shingeki no Kyojin"
-                    ]
-                },
                 "16": {
                     "identifiers": {
                         "anidb": "9826"
@@ -115,6 +87,20 @@
                         "Shingeki no Kyojin OAD"
                     ]
                 },
+                "19": {
+                    "identifiers": {
+                        "anidb": "10583"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Gekijouban Shingeki no Kyojin"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "9826"
@@ -122,6 +108,66 @@
                     "mappings": [
                         {
                             "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin OAD"
+                    ]
+                },
+                "20": [
+                    {
+                        "identifiers": {
+                            "anidb": "9826"
+                        },
+                        "mappings": [
+                            {
+                                "number": "6",
+                                "season": "1"
+                            }
+                        ],
+                        "names": [
+                            "Shingeki no Kyojin OAD"
+                        ],
+                        "number": "20"
+                    },
+                    {
+                        "identifiers": {
+                            "anidb": "10583"
+                        },
+                        "mappings": [
+                            {
+                                "number": "2",
+                                "season": "1"
+                            }
+                        ],
+                        "names": [
+                            "Gekijouban Shingeki no Kyojin"
+                        ],
+                        "number": "20"
+                    }
+                ],
+                "21": {
+                    "identifiers": {
+                        "anidb": "9826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "7",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Shingeki no Kyojin OAD"
+                    ]
+                },
+                "22": {
+                    "identifiers": {
+                        "anidb": "9826"
+                    },
+                    "mappings": [
+                        {
+                            "number": "8",
                             "season": "1"
                         }
                     ],
@@ -240,11 +286,32 @@
             ]
         },
         "3": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "14444"
+                    },
+                    "names": [
+                        "Shingeki no Kyojin Season 3 (2019)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
             "identifiers": {
                 "anidb": "13241"
             },
             "names": [
                 "Shingeki no Kyojin Season 3"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "14977"
+            },
+            "names": [
+                "Shingeki no Kyojin: The Final Season"
             ]
         }
     }

@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "12503",
         "tvdb": "321820"
     },
-    "names": [
-        "Kirakira Precure A La Mode"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "12509"
+            },
+            "names": [
+                "Eiga Precure Dream Stars!"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "12503"
+            },
+            "names": [
+                "Kirakira Precure A La Mode"
+            ]
+        }
     }
 }

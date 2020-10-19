@@ -5,6 +5,20 @@
     "seasons": {
         "0": {
             "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "14890"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Nanatsu no Taizai: Imashime no Fukkatsu (2018)"
+                    ]
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "11138"
@@ -26,6 +40,17 @@
                     "parameters": {
                         "episode_offset": "3"
                     }
+                },
+                "9": {
+                    "identifiers": {
+                        "anidb": "13286"
+                    },
+                    "names": [
+                        "Gekijouban Nanatsu no Taizai: Tenkuu no Torawarebito"
+                    ],
+                    "parameters": {
+                        "episode_offset": "8"
+                    }
                 }
             }
         },
@@ -43,6 +68,22 @@
             },
             "names": [
                 "Nanatsu no Taizai: Imashime no Fukkatsu"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "14819"
+            },
+            "names": [
+                "Nanatsu no Taizai: Kamigami no Gekirin"
+            ]
+        },
+        "4": {
+            "identifiers": {
+                "anidb": "15459"
+            },
+            "names": [
+                "Nanatsu no Taizai: Fundo no Shinpan"
             ]
         }
     }

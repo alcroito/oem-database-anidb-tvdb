@@ -5,6 +5,17 @@
     "seasons": {
         "0": {
             "episodes": {
+                "10": {
+                    "identifiers": {
+                        "anidb": "14047"
+                    },
+                    "names": [
+                        "Yuru Yuri Ten"
+                    ],
+                    "parameters": {
+                        "episode_offset": "9"
+                    }
+                },
                 "2": {
                     "identifiers": {
                         "anidb": "10528"
@@ -25,6 +36,17 @@
                     ],
                     "parameters": {
                         "episode_offset": "2"
+                    }
+                },
+                "5": {
+                    "identifiers": {
+                        "anidb": "14971"
+                    },
+                    "names": [
+                        "Mini Yuri"
+                    ],
+                    "parameters": {
+                        "episode_offset": "4"
                     }
                 }
             }

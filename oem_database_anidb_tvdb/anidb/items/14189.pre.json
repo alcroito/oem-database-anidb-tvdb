@@ -7,7 +7,36 @@
         "Saiki Kusuo no Sainan: Kanketsuhen"
     ],
     "parameters": {
-        "default_season": "0",
-        "episode_offset": "95"
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "96",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "96",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "96",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
     }
 }

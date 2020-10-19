@@ -7,20 +7,7 @@
         "Dragon Ball: Episode of Bardock"
     ],
     "parameters": {
-        "default_season": "0"
-    },
-    "seasons": {
-        "1": {
-            "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "21",
-                            "season": "0"
-                        }
-                    ]
-                }
-            }
-        }
+        "default_season": "0",
+        "episode_offset": "20"
     }
 }

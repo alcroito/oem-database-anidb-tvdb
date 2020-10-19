@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "14627",
         "tvdb": "359645"
     },
-    "names": [
-        "Fairy Gone"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "14627"
+            },
+            "names": [
+                "Fairy Gone"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "14916"
+            },
+            "names": [
+                "Fairy Gone (2019)"
+            ]
+        }
     }
 }

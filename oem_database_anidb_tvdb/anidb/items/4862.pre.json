@@ -15,7 +15,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "2",
+                            "number": "4",
                             "season": "0"
                         }
                     ]
@@ -23,6 +23,7 @@
                 "2": {
                     "mappings": [
                         {
+                            "number": "4",
                             "season": "0"
                         }
                     ]
@@ -30,7 +31,7 @@
                 "3": {
                     "mappings": [
                         {
-                            "number": "2",
+                            "number": "4",
                             "season": "0"
                         }
                     ]

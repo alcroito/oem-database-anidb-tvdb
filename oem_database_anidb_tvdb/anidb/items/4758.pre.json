@@ -1,7 +1,7 @@
 {
     "identifiers": {
         "anidb": "4758",
-        "tvdb": "74890"
+        "tvdb": "254931"
     },
     "names": [
         "Kidou Senshi Gundam SEED Destiny: Sadame no Gouka"
@@ -15,7 +15,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "5",
+                            "number": "9",
                             "season": "0"
                         }
                     ]

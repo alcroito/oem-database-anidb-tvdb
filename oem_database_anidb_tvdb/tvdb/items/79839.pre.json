@@ -5,19 +5,45 @@
     "seasons": {
         "0": {
             "episodes": {
-                "2": {
+                "12": {
                     "identifiers": {
-                        "anidb": "5424"
+                        "anidb": "11059"
                     },
-                    "mappings": [
-                        {
-                            "number": "1"
-                        }
-                    ],
                     "names": [
-                        "Aria the Origination"
-                    ]
+                        "Aria the Avvenire"
+                    ],
+                    "parameters": {
+                        "episode_offset": "11"
+                    }
                 },
+                "2": [
+                    {
+                        "identifiers": {
+                            "anidb": "5115"
+                        },
+                        "names": [
+                            "Aria the OVA: Arietta"
+                        ],
+                        "number": "2",
+                        "parameters": {
+                            "episode_offset": "1"
+                        }
+                    },
+                    {
+                        "identifiers": {
+                            "anidb": "5424"
+                        },
+                        "mappings": [
+                            {
+                                "number": "1"
+                            }
+                        ],
+                        "names": [
+                            "Aria the Origination"
+                        ],
+                        "number": "2"
+                    }
+                ],
                 "3": {
                     "identifiers": {
                         "anidb": "5424"
@@ -109,13 +135,7 @@
                         "Aria the Origination"
                     ]
                 }
-            },
-            "identifiers": {
-                "anidb": "5115"
-            },
-            "names": [
-                "Aria the OVA: Arietta"
-            ]
+            }
         },
         "1": {
             "identifiers": {

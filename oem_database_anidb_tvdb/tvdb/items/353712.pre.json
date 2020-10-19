@@ -1,12 +1,31 @@
 {
     "identifiers": {
-        "anidb": "13246",
         "tvdb": "353712"
     },
-    "names": [
-        "Tate no Yuusha no Nariagari"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "13246"
+            },
+            "names": [
+                "Tate no Yuusha no Nariagari"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "15070"
+            },
+            "names": [
+                "Tate no Yuusha no Nariagari Season 2"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "15071"
+            },
+            "names": [
+                "Tate no Yuusha no Nariagari Season 3"
+            ]
+        }
     }
 }

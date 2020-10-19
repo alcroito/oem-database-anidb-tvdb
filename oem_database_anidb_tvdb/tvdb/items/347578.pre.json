@@ -1,12 +1,23 @@
 {
     "identifiers": {
-        "anidb": "13845",
         "tvdb": "347578"
     },
-    "names": [
-        "Zoids Wild"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "1": {
+            "identifiers": {
+                "anidb": "13845"
+            },
+            "names": [
+                "Zoids Wild"
+            ]
+        },
+        "2": {
+            "identifiers": {
+                "anidb": "15026"
+            },
+            "names": [
+                "Zoids Wild Zero"
+            ]
+        }
     }
 }

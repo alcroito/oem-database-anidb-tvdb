@@ -7,19 +7,12 @@
         "Dragon Ball Z: Super Senshi Gekiha!! Katsu no wa Ore Da"
     ],
     "parameters": {
-        "default_season": "0"
+        "default_season": "0",
+        "episode_offset": "10"
     },
     "seasons": {
         "1": {
             "episodes": {
-                "1": {
-                    "mappings": [
-                        {
-                            "number": "11",
-                            "season": "0"
-                        }
-                    ]
-                },
                 "2": {
                     "mappings": [
                         {

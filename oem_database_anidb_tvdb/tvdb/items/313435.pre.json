@@ -4,15 +4,566 @@
     },
     "seasons": {
         "0": {
+            "episodes": {
+                "100": {
+                    "identifiers": {
+                        "anidb": "14797"
+                    },
+                    "mappings": [
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Saiki Kusuo no Sainan: Saishidou Hen"
+                    ]
+                },
+                "101": {
+                    "identifiers": {
+                        "anidb": "14797"
+                    },
+                    "mappings": [
+                        {
+                            "number": "4",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Saiki Kusuo no Sainan: Saishidou Hen"
+                    ]
+                },
+                "102": {
+                    "identifiers": {
+                        "anidb": "14797"
+                    },
+                    "mappings": [
+                        {
+                            "number": "5",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Saiki Kusuo no Sainan: Saishidou Hen"
+                    ]
+                },
+                "103": {
+                    "identifiers": {
+                        "anidb": "14797"
+                    },
+                    "mappings": [
+                        {
+                            "number": "6",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Saiki Kusuo no Sainan: Saishidou Hen"
+                    ]
+                },
+                "96": {
+                    "identifiers": {
+                        "anidb": "14189"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "number": "2",
+                            "season": "1"
+                        },
+                        {
+                            "number": "3",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Saiki Kusuo no Sainan: Kanketsuhen"
+                    ]
+                },
+                "98": {
+                    "identifiers": {
+                        "anidb": "14797"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Saiki Kusuo no Sainan: Saishidou Hen"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "1"
+                        },
+                        {
+                            "number": "2"
+                        },
+                        {
+                            "number": "3"
+                        },
+                        {
+                            "number": "4"
+                        },
+                        {
+                            "number": "5"
+                        }
+                    ]
+                },
+                "10": {
+                    "mappings": [
+                        {
+                            "number": "46"
+                        },
+                        {
+                            "number": "47"
+                        },
+                        {
+                            "number": "48"
+                        },
+                        {
+                            "number": "49"
+                        },
+                        {
+                            "number": "50"
+                        }
+                    ]
+                },
+                "11": {
+                    "mappings": [
+                        {
+                            "number": "51"
+                        },
+                        {
+                            "number": "52"
+                        },
+                        {
+                            "number": "53"
+                        },
+                        {
+                            "number": "54"
+                        },
+                        {
+                            "number": "55"
+                        }
+                    ]
+                },
+                "12": {
+                    "mappings": [
+                        {
+                            "number": "56"
+                        },
+                        {
+                            "number": "57"
+                        },
+                        {
+                            "number": "58"
+                        },
+                        {
+                            "number": "59"
+                        },
+                        {
+                            "number": "60"
+                        }
+                    ]
+                },
+                "13": {
+                    "mappings": [
+                        {
+                            "number": "61"
+                        },
+                        {
+                            "number": "62"
+                        },
+                        {
+                            "number": "63"
+                        },
+                        {
+                            "number": "64"
+                        },
+                        {
+                            "number": "65"
+                        }
+                    ]
+                },
+                "14": {
+                    "mappings": [
+                        {
+                            "number": "66"
+                        },
+                        {
+                            "number": "67"
+                        },
+                        {
+                            "number": "68"
+                        },
+                        {
+                            "number": "69"
+                        },
+                        {
+                            "number": "70"
+                        }
+                    ]
+                },
+                "15": {
+                    "mappings": [
+                        {
+                            "number": "71"
+                        },
+                        {
+                            "number": "72"
+                        },
+                        {
+                            "number": "73"
+                        },
+                        {
+                            "number": "74"
+                        },
+                        {
+                            "number": "75"
+                        }
+                    ]
+                },
+                "16": {
+                    "mappings": [
+                        {
+                            "number": "76"
+                        },
+                        {
+                            "number": "77"
+                        },
+                        {
+                            "number": "78"
+                        },
+                        {
+                            "number": "79"
+                        },
+                        {
+                            "number": "80"
+                        }
+                    ]
+                },
+                "17": {
+                    "mappings": [
+                        {
+                            "number": "81"
+                        },
+                        {
+                            "number": "82"
+                        },
+                        {
+                            "number": "83"
+                        },
+                        {
+                            "number": "84"
+                        },
+                        {
+                            "number": "85"
+                        }
+                    ]
+                },
+                "18": {
+                    "mappings": [
+                        {
+                            "number": "86"
+                        },
+                        {
+                            "number": "87"
+                        },
+                        {
+                            "number": "88"
+                        },
+                        {
+                            "number": "89"
+                        },
+                        {
+                            "number": "90"
+                        }
+                    ]
+                },
+                "19": {
+                    "mappings": [
+                        {
+                            "number": "91"
+                        },
+                        {
+                            "number": "92"
+                        },
+                        {
+                            "number": "93"
+                        },
+                        {
+                            "number": "94"
+                        },
+                        {
+                            "number": "95"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "6"
+                        },
+                        {
+                            "number": "7"
+                        },
+                        {
+                            "number": "8"
+                        },
+                        {
+                            "number": "9"
+                        },
+                        {
+                            "number": "10"
+                        }
+                    ]
+                },
+                "20": {
+                    "mappings": [
+                        {
+                            "number": "96"
+                        },
+                        {
+                            "number": "97"
+                        },
+                        {
+                            "number": "98"
+                        },
+                        {
+                            "number": "99"
+                        },
+                        {
+                            "number": "100"
+                        }
+                    ]
+                },
+                "21": {
+                    "mappings": [
+                        {
+                            "number": "101"
+                        },
+                        {
+                            "number": "102"
+                        },
+                        {
+                            "number": "103"
+                        },
+                        {
+                            "number": "104"
+                        },
+                        {
+                            "number": "105"
+                        }
+                    ]
+                },
+                "22": {
+                    "mappings": [
+                        {
+                            "number": "106"
+                        },
+                        {
+                            "number": "107"
+                        },
+                        {
+                            "number": "108"
+                        },
+                        {
+                            "number": "109"
+                        },
+                        {
+                            "number": "110"
+                        }
+                    ]
+                },
+                "23": {
+                    "mappings": [
+                        {
+                            "number": "111"
+                        },
+                        {
+                            "number": "112"
+                        },
+                        {
+                            "number": "113"
+                        },
+                        {
+                            "number": "114"
+                        },
+                        {
+                            "number": "115"
+                        }
+                    ]
+                },
+                "24": {
+                    "mappings": [
+                        {
+                            "number": "116"
+                        },
+                        {
+                            "number": "117"
+                        },
+                        {
+                            "number": "118"
+                        },
+                        {
+                            "number": "119"
+                        },
+                        {
+                            "number": "120"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "11"
+                        },
+                        {
+                            "number": "12"
+                        },
+                        {
+                            "number": "13"
+                        },
+                        {
+                            "number": "14"
+                        },
+                        {
+                            "number": "15"
+                        }
+                    ]
+                },
+                "4": {
+                    "mappings": [
+                        {
+                            "number": "16"
+                        },
+                        {
+                            "number": "17"
+                        },
+                        {
+                            "number": "18"
+                        },
+                        {
+                            "number": "19"
+                        },
+                        {
+                            "number": "20"
+                        }
+                    ]
+                },
+                "5": {
+                    "mappings": [
+                        {
+                            "number": "21"
+                        },
+                        {
+                            "number": "22"
+                        },
+                        {
+                            "number": "23"
+                        },
+                        {
+                            "number": "24"
+                        },
+                        {
+                            "number": "25"
+                        }
+                    ]
+                },
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "26"
+                        },
+                        {
+                            "number": "27"
+                        },
+                        {
+                            "number": "28"
+                        },
+                        {
+                            "number": "29"
+                        },
+                        {
+                            "number": "30"
+                        }
+                    ]
+                },
+                "7": {
+                    "mappings": [
+                        {
+                            "number": "31"
+                        },
+                        {
+                            "number": "32"
+                        },
+                        {
+                            "number": "33"
+                        },
+                        {
+                            "number": "34"
+                        },
+                        {
+                            "number": "35"
+                        }
+                    ]
+                },
+                "8": {
+                    "mappings": [
+                        {
+                            "number": "36"
+                        },
+                        {
+                            "number": "37"
+                        },
+                        {
+                            "number": "38"
+                        },
+                        {
+                            "number": "39"
+                        },
+                        {
+                            "number": "40"
+                        }
+                    ]
+                },
+                "9": {
+                    "mappings": [
+                        {
+                            "number": "41"
+                        },
+                        {
+                            "number": "42"
+                        },
+                        {
+                            "number": "43"
+                        },
+                        {
+                            "number": "44"
+                        },
+                        {
+                            "number": "45"
+                        }
+                    ]
+                }
+            },
             "identifiers": {
-                "anidb": "14189"
+                "anidb": "12112"
             },
             "names": [
-                "Saiki Kusuo no Sainan: Kanketsuhen"
-            ],
-            "parameters": {
-                "episode_offset": "95"
-            }
+                "Saiki Kusuo no Sainan (2016)"
+            ]
         },
         "2": {
             "identifiers": {

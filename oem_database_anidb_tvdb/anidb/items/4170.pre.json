@@ -1,7 +1,7 @@
 {
     "identifiers": {
         "anidb": "4170",
-        "tvdb": "74890"
+        "tvdb": "254931"
     },
     "names": [
         "Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai"
@@ -15,14 +15,14 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "18"
                         }
                     ]
                 },
                 "2": {
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "18"
                         }
                     ]
                 }
@@ -33,7 +33,7 @@
                 "1": {
                     "mappings": [
                         {
-                            "number": "2",
+                            "number": "18",
                             "season": "0"
                         }
                     ]

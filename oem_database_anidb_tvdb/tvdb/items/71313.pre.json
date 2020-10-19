@@ -5,13 +5,13 @@
     "seasons": {
         "0": {
             "episodes": {
-                "1": {
+                "2": {
                     "identifiers": {
                         "anidb": "369"
                     },
                     "mappings": [
                         {
-                            "number": "2",
+                            "number": "1",
                             "season": "1"
                         },
                         {
@@ -22,24 +22,16 @@
                     "names": [
                         "Kidou Senkan Nadesico: The Prince of Darkness"
                     ]
-                },
-                "2": {
-                    "identifiers": {
-                        "anidb": "666"
-                    },
-                    "mappings": [
-                        {
-                            "number": "1",
-                            "season": "1"
-                        }
-                    ],
-                    "names": [
-                        "Gekiganger 3: Nekketsu Daikessen!!"
-                    ],
-                    "supplemental": {
-                        "studio": "XEBEC"
-                    }
                 }
+            },
+            "identifiers": {
+                "anidb": "666"
+            },
+            "names": [
+                "Gekiganger 3: Nekketsu Daikessen!!"
+            ],
+            "supplemental": {
+                "studio": "XEBEC"
             }
         },
         "1": {

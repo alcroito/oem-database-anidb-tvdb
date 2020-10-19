@@ -1,12 +1,33 @@
 {
     "identifiers": {
-        "anidb": "13750",
         "tvdb": "346798"
     },
-    "names": [
-        "Asobi Asobase"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "3": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "14127"
+            },
+            "names": [
+                "Asobi Asobase: Cosplay Taikai / Otona no Watashi e"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "13750"
+            },
+            "names": [
+                "Asobi Asobase"
+            ]
+        }
     }
 }

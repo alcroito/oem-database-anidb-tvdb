@@ -1,12 +1,43 @@
 {
     "identifiers": {
-        "anidb": "11166",
         "tvdb": "320459"
     },
-    "names": [
-        "Chaos;Child"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        },
+                        {
+                            "season": "1"
+                        }
+                    ]
+                },
+                "3": {
+                    "mappings": [
+                        {
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "13057"
+            },
+            "names": [
+                "Chaos;Child: Silent Sky"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "11166"
+            },
+            "names": [
+                "Chaos;Child"
+            ]
+        }
     }
 }

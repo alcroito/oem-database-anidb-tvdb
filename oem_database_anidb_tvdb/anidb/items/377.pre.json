@@ -13,28 +13,28 @@
         "1": {
             "mappings": [
                 {
-                    "end": 21,
+                    "end": 54,
                     "offset": 0,
                     "season": "1",
                     "start": 1
                 },
                 {
-                    "end": 80,
-                    "offset": -21,
+                    "end": 106,
+                    "offset": -54,
                     "season": "2",
-                    "start": 22
+                    "start": 55
                 },
                 {
-                    "end": 130,
-                    "offset": -80,
+                    "end": 149,
+                    "offset": -106,
                     "season": "3",
-                    "start": 81
+                    "start": 107
                 },
                 {
                     "end": 195,
-                    "offset": -130,
+                    "offset": -149,
                     "season": "4",
-                    "start": 131
+                    "start": 150
                 }
             ]
         }
