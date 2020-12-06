@@ -827,6 +827,48 @@
                         "Meitantei Conan: Gouka no Himawari"
                     ]
                 },
+                "66": {
+                    "identifiers": {
+                        "anidb": "11753"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Meitantei Conan: Junkoku no Nightmare"
+                    ]
+                },
+                "68": {
+                    "identifiers": {
+                        "anidb": "12564"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Meitantei Conan: Kara Kurenai no Love Letter"
+                    ]
+                },
+                "69": {
+                    "identifiers": {
+                        "anidb": "13605"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Meitantei Conan: Zero no Shikkounin"
+                    ]
+                },
                 "7": {
                     "identifiers": {
                         "anidb": "3591"
@@ -839,6 +881,20 @@
                     ],
                     "names": [
                         "Meitantei Conan: 16 Nin no Yougisha"
+                    ]
+                },
+                "70": {
+                    "identifiers": {
+                        "anidb": "14520"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Meitantei Conan: Konjou no Fist"
                     ]
                 },
                 "8": {

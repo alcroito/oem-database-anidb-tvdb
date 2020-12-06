@@ -22,14 +22,14 @@
             },
             "mappings": [
                 {
-                    "end": 12,
-                    "offset": -4,
+                    "end": 8,
+                    "offset": -7,
                     "season": "0",
-                    "start": 6
+                    "start": 8
                 },
                 {
-                    "end": 5,
-                    "offset": 100,
+                    "end": 7,
+                    "offset": 1,
                     "season": "0",
                     "start": 1
                 }

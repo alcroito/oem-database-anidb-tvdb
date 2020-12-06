@@ -1,0 +1,28 @@
+{
+    "identifiers": {
+        "tvdb": "385542"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "13": {
+                    "identifiers": {
+                        "anidb": "15774"
+                    },
+                    "names": [
+                        "Yuukoku no Moriarty (2021)"
+                    ],
+                    "parameters": {
+                        "episode_offset": "12"
+                    }
+                }
+            },
+            "identifiers": {
+                "anidb": "15324"
+            },
+            "names": [
+                "Yuukoku no Moriarty"
+            ]
+        }
+    }
+}

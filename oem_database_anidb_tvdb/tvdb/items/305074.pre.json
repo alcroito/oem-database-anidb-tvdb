@@ -11,7 +11,8 @@
                     },
                     "mappings": [
                         {
-                            "number": "2"
+                            "number": "2",
+                            "season": "1"
                         }
                     ],
                     "names": [

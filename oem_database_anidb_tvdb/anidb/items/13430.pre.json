@@ -1,0 +1,52 @@
+{
+    "identifiers": {
+        "anidb": "13430",
+        "tvdb": "305089"
+    },
+    "names": [
+        "Re:Zero kara Hajimeru Isekai Seikatsu (2018)"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "0": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "27"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "29"
+                        }
+                    ]
+                }
+            }
+        },
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "26",
+                            "season": "0"
+                        }
+                    ]
+                },
+                "2": {
+                    "mappings": [
+                        {
+                            "number": "28",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

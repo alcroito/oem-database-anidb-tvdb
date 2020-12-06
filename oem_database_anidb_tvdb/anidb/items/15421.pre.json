@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15421",
+        "tvdb": "385077"
+    },
+    "names": [
+        "Tonikaku Kawaii"
+    ],
+    "parameters": {
+        "default_season": "1"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15806",
+        "tvdb": "354198"
+    },
+    "names": [
+        "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen 3"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}

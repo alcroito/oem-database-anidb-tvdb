@@ -27,23 +27,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "5"
-                        }
-                    ],
-                    "names": [
-                        "Hagane no Renkinjutsushi"
-                    ],
-                    "supplemental": {
-                        "studio": "Bones"
-                    }
-                },
-                "11": {
-                    "identifiers": {
-                        "anidb": "979"
-                    },
-                    "mappings": [
-                        {
-                            "number": "7"
+                            "number": "9"
                         }
                     ],
                     "names": [
@@ -144,7 +128,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "4"
+                            "number": "7"
                         }
                     ],
                     "names": [
@@ -160,7 +144,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "9"
+                            "number": "6"
                         }
                     ],
                     "names": [
@@ -176,7 +160,7 @@
                     },
                     "mappings": [
                         {
-                            "number": "6"
+                            "number": "5"
                         }
                     ],
                     "names": [

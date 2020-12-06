@@ -1,0 +1,26 @@
+{
+    "identifiers": {
+        "anidb": "15113",
+        "tvdb": "348545"
+    },
+    "names": [
+        "Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen"
+    ],
+    "parameters": {
+        "default_season": "0"
+    },
+    "seasons": {
+        "1": {
+            "episodes": {
+                "1": {
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "0"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

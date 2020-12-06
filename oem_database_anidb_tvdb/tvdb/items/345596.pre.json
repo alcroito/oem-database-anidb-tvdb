@@ -1,12 +1,33 @@
 {
     "identifiers": {
-        "anidb": "13900",
         "tvdb": "345596"
     },
-    "names": [
-        "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "seasons": {
+        "0": {
+            "episodes": {
+                "6": {
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ]
+                }
+            },
+            "identifiers": {
+                "anidb": "14397"
+            },
+            "names": [
+                "Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai"
+            ]
+        },
+        "1": {
+            "identifiers": {
+                "anidb": "13900"
+            },
+            "names": [
+                "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai"
+            ]
+        }
     }
 }

@@ -3,6 +3,14 @@
         "tvdb": "354198"
     },
     "seasons": {
+        "0": {
+            "identifiers": {
+                "anidb": "15807"
+            },
+            "names": [
+                "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen (2021)"
+            ]
+        },
         "1": {
             "identifiers": {
                 "anidb": "14111"
@@ -17,6 +25,14 @@
             },
             "names": [
                 "Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren'ai Zunousen"
+            ]
+        },
+        "3": {
+            "identifiers": {
+                "anidb": "15806"
+            },
+            "names": [
+                "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen 3"
             ]
         }
     }

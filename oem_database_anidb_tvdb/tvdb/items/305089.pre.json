@@ -4,19 +4,75 @@
     },
     "seasons": {
         "0": {
-            "identifiers": {
-                "anidb": "11370"
+            "episodes": {
+                "26": {
+                    "identifiers": {
+                        "anidb": "13430"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Re:Zero kara Hajimeru Isekai Seikatsu (2018)"
+                    ]
+                },
+                "27": {
+                    "identifiers": {
+                        "anidb": "13430"
+                    },
+                    "mappings": [
+                        {
+                            "number": "1"
+                        }
+                    ],
+                    "names": [
+                        "Re:Zero kara Hajimeru Isekai Seikatsu (2018)"
+                    ]
+                },
+                "28": {
+                    "identifiers": {
+                        "anidb": "13430"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2",
+                            "season": "1"
+                        }
+                    ],
+                    "names": [
+                        "Re:Zero kara Hajimeru Isekai Seikatsu (2018)"
+                    ]
+                },
+                "29": {
+                    "identifiers": {
+                        "anidb": "13430"
+                    },
+                    "mappings": [
+                        {
+                            "number": "2"
+                        }
+                    ],
+                    "names": [
+                        "Re:Zero kara Hajimeru Isekai Seikatsu (2018)"
+                    ]
+                }
             },
             "mappings": [
                 {
                     "end": 25,
+                    "identifiers": {
+                        "anidb": "11370"
+                    },
+                    "names": [
+                        "Re:Zero kara Hajimeru Isekai Seikatsu"
+                    ],
                     "offset": 1,
                     "season": "0",
                     "start": 1
                 }
-            ],
-            "names": [
-                "Re:Zero kara Hajimeru Isekai Seikatsu"
             ]
         },
         "1": {

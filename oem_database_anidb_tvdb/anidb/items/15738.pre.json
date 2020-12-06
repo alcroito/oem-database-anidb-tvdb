@@ -1,0 +1,12 @@
+{
+    "identifiers": {
+        "anidb": "15738",
+        "tvdb": "357488"
+    },
+    "names": [
+        "Fruits Basket the Final"
+    ],
+    "parameters": {
+        "default_season": "3"
+    }
+}
